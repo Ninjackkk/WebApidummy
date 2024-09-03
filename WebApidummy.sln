@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApidummy", "WebApidummy.csproj", "{A60443F1-88ED-4FFA-AA2C-5DE26F3B2540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60443F1-88ED-4FFA-AA2C-5DE26F3B2540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60443F1-88ED-4FFA-AA2C-5DE26F3B2540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60443F1-88ED-4FFA-AA2C-5DE26F3B2540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60443F1-88ED-4FFA-AA2C-5DE26F3B2540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E204DBE1-2E00-473E-9C4B-EED8CD804528}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@WebApidummy_HostAddress = http://localhost:5028
+
+GET {{WebApidummy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
