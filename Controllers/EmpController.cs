@@ -41,7 +41,7 @@ namespace WebApidummy.Controllers
         //    return Ok("Emp deleted successfully");
         //}
 
-        [Route("Delete/id")]
+        [Route("Delete/{id}")]
         [HttpDelete]
         public IActionResult Delete(int id) 
         { 
